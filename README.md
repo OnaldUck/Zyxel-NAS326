@@ -1,6 +1,6 @@
 # Zyxel-NAS326
 Ständiges peepen deaktivieren
 
-Per SSH draus und:
+Per SSH drauf und:
 
 ```buzzerc -s && rm /sbin/buzzerc```
